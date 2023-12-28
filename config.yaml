@@ -1,0 +1,3 @@
+telegram_api_token_name: 'TELEGRAM_API_TOKEN'
+openai_token_name: 'OPENAI_API_KEY'
+LLM_version: 'gpt-4'
